@@ -1,6 +1,7 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Jimin&nbsp;Ju&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=50&desc=Backend&nbsp;Developer&descAlignY=88&descAlign=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Jimin&nbsp;Ju&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=50&desc=Backend&nbsp;Developer&descAlignY=88&descAlign=50)
+-->
   
 <h2>Tech Stack</h2>
  <div>
